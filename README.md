@@ -181,6 +181,7 @@ java -cp out Main
 Received from web
 Ticket created
 Assigned to engineering
+
 Working on ticket
 Sending bug response
 Ticket resolved
